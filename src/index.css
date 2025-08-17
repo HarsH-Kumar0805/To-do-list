@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+
+
+input[type="text"] {
+    opacity: 1; 
+    visibility: visible;
+    width: 400px; 
+    height: 40px; 
+    color: #000;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 8px; 
+}
